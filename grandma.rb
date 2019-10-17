@@ -11,3 +11,8 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
+
+speak_to_grandma
+if grandma= "HUH?! SPEAK UP, SONNY!"
+else grandma="NOT, NOT SINCE 1938!"
+elsif grandma="I LOVE YOU GRANDMA"
